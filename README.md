@@ -4,4 +4,4 @@ MS student in Electrical and Computer Engineering at Purdue University, concentr
 
 I started on the hardware side, working with RTL and digital design, before moving into systems and application software and then into machine learning. Served as a GTA for Artificial Intelligence and as a teaching assistant for an ASIC design course, and worked as a software engineering intern.
 
-This profile mostly holds projects across those areas: digital hardware design, software of various kinds, and machine learning and LLM tooling. Not all projects have yet been added to this page.
+This profile mostly holds projects across those areas: digital hardware design, software of various kinds, and machine learning and LLM tooling. Not all projects have yet been added to this page and some are private due to NDAs.
