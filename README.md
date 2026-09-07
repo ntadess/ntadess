@@ -12,5 +12,3 @@ This profile mostly holds projects across those areas: digital hardware design, 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ntadess&show_icons=true&theme=dark&hide_border=true" />
