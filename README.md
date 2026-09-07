@@ -1,4 +1,4 @@
-# Nahom Tadesse
+# Hi, I'm Nahom Tadesse
 
 MS student in Electrical and Computer Engineering at Purdue University, concentrating in software engineering, AI, and hardware. BS in Computer Engineering from Purdue.
 
